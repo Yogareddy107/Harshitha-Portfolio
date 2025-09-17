@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Harshitha-Portfolio/static/css/main.35668ca4.css",
+    "main.js": "/Harshitha-Portfolio/static/js/main.c6af06e8.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Harshitha-Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Harshitha-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Harshitha_resume.pdf": "/Harshitha-Portfolio/static/media/Harshitha_resume.109f7c654e0cd3fb219d.pdf",
+    "static/media/home-main.svg": "/Harshitha-Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Harshitha-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/Harshitha-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/Harshitha-Portfolio/static/media/logo.5b01da803e957e92d427.png",
+    "static/media/avatar.svg": "/Harshitha-Portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/Harshitha-Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Harshitha-Portfolio/index.html",
+    "main.35668ca4.css.map": "/Harshitha-Portfolio/static/css/main.35668ca4.css.map",
+    "main.c6af06e8.js.map": "/Harshitha-Portfolio/static/js/main.c6af06e8.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Harshitha-Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Harshitha-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35668ca4.css",
+    "static/js/main.c6af06e8.js"
+  ]
+}
